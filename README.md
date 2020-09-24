@@ -15,5 +15,5 @@ This project was developed using:
 
 ### Authors
 - Iria Guazzi
-- Larissa Cauani
+- Larissa Cauane
 - Roberto Mendes
